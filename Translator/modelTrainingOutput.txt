@@ -1,0 +1,462 @@
+Epoch: 01 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 01 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 01 | Time: 0m 2s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Testing:
+	 Query:
+	SOS many of the chairs are empty with only a few people enjoying the sun . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 02 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 03 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 04 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 05 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 06 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 07 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 08 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 09 | Time: 0m 2s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 10 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 11 | Time: 0m 2s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Testing:
+	 Query:
+	SOS a dog walking through a small stream with a rag in his mouth . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 12 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 13 | Time: 0m 3s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 14 | Time: 0m 2s
+	Train Loss: 0.154 | Train PPL:   1.166
+	 Val. Loss: 0.154 |    Val. PPL:   1.166
+Epoch: 01 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Testing:
+	 Query:
+	SOS a group of men are loading cotton onto a truck EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 02 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 03 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 04 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 05 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 06 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 07 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 08 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 09 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 10 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 11 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Testing:
+	 Query:
+	SOS a person crosses the street and avoids the spill of paint . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 12 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 01 | Time: 0m 3s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Testing:
+	 Query:
+	SOS a young boy wearing a giants jersey swings a baseball bat at an incoming pitch . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 02 | Time: 0m 3s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 03 | Time: 0m 3s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 04 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 05 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 06 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 07 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 01 | Time: 0m 3s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Testing:
+	 Query:
+	SOS a child is getting ready to read a book . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 02 | Time: 0m 3s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 03 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 04 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 05 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 06 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 07 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 08 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 09 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 10 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 11 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Testing:
+	 Query:
+	SOS woman and man walking across wooden rope bridge with a caution sign beside it . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 12 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 13 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 14 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 15 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 16 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 17 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 18 | Time: 0m 3s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 19 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 01 | Time: 0m 3s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Testing:
+	 Query:
+	SOS a young white male is sweeping a porch with a large broom . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+
+Epoch: 02 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 03 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 04 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 05 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 06 | Time: 0m 2s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 01 | Time: 3m 34s
+	Train Loss: nan | Train PPL:     nan
+	 Val. Loss: nan |    Val. PPL:     nan
+Epoch: 01 | Time: 3m 32s
+	Train Loss: 36.546 | Train PPL: 7446251130531807.000
+	 Val. Loss: 0.062 |    Val. PPL:   1.064
+Testing:
+	 Query:
+	SOS a child is getting ready to read a book . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS ein kleines mädchen , während eine frau , während eine frau , während eine frau , während eine frau , während eine frau , während eine frau , während eine frau , während eine frau , während ein mann
+
+Epoch: 02 | Time: 3m 44s
+	Train Loss: 25.339 | Train PPL: 101103508198.335
+	 Val. Loss: 0.051 |    Val. PPL:   1.052
+Epoch: 03 | Time: 3m 49s
+	Train Loss: 21.095 | Train PPL: 1450105604.061
+	 Val. Loss: 0.046 |    Val. PPL:   1.047
+Epoch: 04 | Time: 3m 47s
+	Train Loss: 18.325 | Train PPL: 90883011.436
+	 Val. Loss: 0.041 |    Val. PPL:   1.042
+Epoch: 05 | Time: 3m 44s
+	Train Loss: 16.313 | Train PPL: 12151654.360
+	 Val. Loss: 0.038 |    Val. PPL:   1.039
+Epoch: 06 | Time: 3m 43s
+	Train Loss: 14.689 | Train PPL: 2396438.024
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 07 | Time: 3m 41s
+	Train Loss: 13.364 | Train PPL: 636493.980
+	 Val. Loss: 0.036 |    Val. PPL:   1.036
+Epoch: 08 | Time: 3m 42s
+	Train Loss: 12.269 | Train PPL: 213045.029
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Epoch: 09 | Time: 3m 45s
+	Train Loss: 11.304 | Train PPL: 81148.816
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 10 | Time: 3m 47s
+	Train Loss: 10.477 | Train PPL: 35491.119
+	 Val. Loss: 0.034 |    Val. PPL:   1.035
+Epoch: 11 | Time: 3m 44s
+	Train Loss: 9.741 | Train PPL: 17008.689
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Testing:
+	 Query:
+	SOS a policeman stopping a vehicle on the side of the road . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS ein polizist holt an der seite eines autos aus der straße aus einer straße aus , der sich unter einer kirche durch eine kirche unter etwas aussieht . EOS
+
+Epoch: 12 | Time: 3m 45s
+	Train Loss: 9.055 | Train PPL: 8563.335
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Epoch: 13 | Time: 3m 47s
+	Train Loss: 8.447 | Train PPL: 4660.544
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 14 | Time: 3m 47s
+	Train Loss: 7.911 | Train PPL: 2726.083
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Epoch: 15 | Time: 3m 46s
+	Train Loss: 7.388 | Train PPL: 1617.020
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 16 | Time: 4m 8s
+	Train Loss: 6.913 | Train PPL: 1005.652
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 17 | Time: 4m 20s
+	Train Loss: 6.467 | Train PPL: 643.336
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 18 | Time: 4m 53s
+	Train Loss: 6.047 | Train PPL: 422.995
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 19 | Time: 4m 39s
+	Train Loss: 5.666 | Train PPL: 288.932
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Epoch: 20 | Time: 4m 35s
+	Train Loss: 5.326 | Train PPL: 205.594
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Epoch: 21 | Time: 4m 24s
+	Train Loss: 4.986 | Train PPL: 146.383
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Testing:
+	 Query:
+	SOS a blond boy in a blue t - shirt stands smiling before a craft of green nylon fabric . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS ein blonder junge in einem blauen t-shirt steht lächelnd vor einem grüner teppich auf etwas , das sich in verschiedenen goldtönen durch seine zähnen hat , durch eine trinkt . EOS
+
+Epoch: 22 | Time: 4m 22s
+	Train Loss: 4.667 | Train PPL: 106.376
+	 Val. Loss: 0.035 |    Val. PPL:   1.035
+Epoch: 23 | Time: 4m 25s
+	Train Loss: 4.377 | Train PPL:  79.613
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 24 | Time: 4m 26s
+	Train Loss: 4.096 | Train PPL:  60.108
+	 Val. Loss: 0.035 |    Val. PPL:   1.036
+Epoch: 25 | Time: 4m 23s
+	Train Loss: 3.830 | Train PPL:  46.080
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 26 | Time: 4m 24s
+	Train Loss: 3.581 | Train PPL:  35.895
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 27 | Time: 5m 2s
+	Train Loss: 3.340 | Train PPL:  28.220
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 28 | Time: 4m 36s
+	Train Loss: 3.100 | Train PPL:  22.199
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 29 | Time: 4m 44s
+	Train Loss: 2.896 | Train PPL:  18.093
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 30 | Time: 4m 46s
+	Train Loss: 2.703 | Train PPL:  14.928
+	 Val. Loss: 0.038 |    Val. PPL:   1.039
+Epoch: 31 | Time: 4m 39s
+	Train Loss: 2.507 | Train PPL:  12.272
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Testing:
+	 Query:
+	SOS a red plane flying over a boat as it trails pink smoke . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS ein rotes flugzeug fliegt über eine boot , als die südafrika aus als ob sich die zähne unter einer unter der aufschrift einer trinkt , die sich eine unter einer zähnen erschaffen hat . EOS
+
+Epoch: 32 | Time: 4m 41s
+	Train Loss: 2.342 | Train PPL:  10.398
+	 Val. Loss: 0.037 |    Val. PPL:   1.037
+Epoch: 33 | Time: 4m 40s
+	Train Loss: 2.195 | Train PPL:   8.976
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 34 | Time: 4m 38s
+	Train Loss: 2.046 | Train PPL:   7.740
+	 Val. Loss: 0.037 |    Val. PPL:   1.038
+Epoch: 35 | Time: 4m 42s
+	Train Loss: 1.909 | Train PPL:   6.747
+	 Val. Loss: 0.038 |    Val. PPL:   1.039
+Epoch: 36 | Time: 4m 44s
+	Train Loss: 1.773 | Train PPL:   5.886
+	 Val. Loss: 0.038 |    Val. PPL:   1.039
+Epoch: 37 | Time: 4m 44s
+	Train Loss: 1.658 | Train PPL:   5.249
+	 Val. Loss: 0.039 |    Val. PPL:   1.040
+Epoch: 38 | Time: 4m 40s
+	Train Loss: 1.564 | Train PPL:   4.779
+	 Val. Loss: 0.039 |    Val. PPL:   1.040
+Epoch: 39 | Time: 4m 44s
+	Train Loss: 1.460 | Train PPL:   4.308
+	 Val. Loss: 0.040 |    Val. PPL:   1.041
+Epoch: 40 | Time: 4m 20s
+	Train Loss: 1.358 | Train PPL:   3.886
+	 Val. Loss: 0.041 |    Val. PPL:   1.041
+Epoch: 41 | Time: 4m 17s
+	Train Loss: 1.286 | Train PPL:   3.617
+	 Val. Loss: 0.040 |    Val. PPL:   1.041
+Testing:
+	 Query:
+	SOS many of the chairs are empty with only a few people enjoying the sun . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS viele von oben auf leeren stühlen , die nur die sonne unter einer großen blauen wand unter der sich die waren durch die verlässt fünf unter einer verlässt und die lächelt . EOS
+
+Epoch: 42 | Time: 4m 15s
+	Train Loss: 1.206 | Train PPL:   3.340
+	 Val. Loss: 0.040 |    Val. PPL:   1.041
+Epoch: 43 | Time: 4m 20s
+	Train Loss: 1.135 | Train PPL:   3.110
+	 Val. Loss: 0.041 |    Val. PPL:   1.041
+Epoch: 44 | Time: 4m 16s
+	Train Loss: 1.056 | Train PPL:   2.874
+	 Val. Loss: 0.041 |    Val. PPL:   1.042
+Epoch: 45 | Time: 4m 17s
+	Train Loss: 1.003 | Train PPL:   2.726
+	 Val. Loss: 0.042 |    Val. PPL:   1.042
+Epoch: 46 | Time: 4m 17s
+	Train Loss: 0.956 | Train PPL:   2.600
+	 Val. Loss: 0.042 |    Val. PPL:   1.042
+Epoch: 47 | Time: 4m 17s
+	Train Loss: 0.900 | Train PPL:   2.460
+	 Val. Loss: 0.042 |    Val. PPL:   1.043
+Epoch: 48 | Time: 4m 14s
+	Train Loss: 0.847 | Train PPL:   2.333
+	 Val. Loss: 0.044 |    Val. PPL:   1.045
+Epoch: 49 | Time: 4m 17s
+	Train Loss: 0.817 | Train PPL:   2.264
+	 Val. Loss: 0.043 |    Val. PPL:   1.044
+Epoch: 50 | Time: 4m 19s
+	Train Loss: 0.786 | Train PPL:   2.195
+	 Val. Loss: 0.042 |    Val. PPL:   1.043
+Epoch: 51 | Time: 4m 20s
+	Train Loss: 0.734 | Train PPL:   2.083
+	 Val. Loss: 0.042 |    Val. PPL:   1.043
+Testing:
+	 Query:
+	SOS a man in a cluttered office is using the telephone EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS ein mann in einem überladenen büro benutzt die aufschrift „ grüner arbeit “ und hat sich nicht in einer heilquelle im freien vor , die sich einer gegen die sich etwas vor hat , die sich etwas vor hat
+
+Epoch: 52 | Time: 4m 15s
+	Train Loss: 0.702 | Train PPL:   2.018
+	 Val. Loss: 0.044 |    Val. PPL:   1.045
+Epoch: 53 | Time: 4m 17s
+	Train Loss: 0.672 | Train PPL:   1.958
+	 Val. Loss: 0.042 |    Val. PPL:   1.043
+Epoch: 54 | Time: 4m 15s
+	Train Loss: 0.639 | Train PPL:   1.895
+	 Val. Loss: 0.045 |    Val. PPL:   1.046
+Epoch: 55 | Time: 4m 14s
+	Train Loss: 0.615 | Train PPL:   1.850
+	 Val. Loss: 0.045 |    Val. PPL:   1.046
+Epoch: 56 | Time: 4m 13s
+	Train Loss: 0.603 | Train PPL:   1.827
+	 Val. Loss: 0.044 |    Val. PPL:   1.045
+Epoch: 57 | Time: 4m 19s
+	Train Loss: 0.570 | Train PPL:   1.768
+	 Val. Loss: 0.043 |    Val. PPL:   1.044
+Epoch: 58 | Time: 4m 16s
+	Train Loss: 0.551 | Train PPL:   1.735
+	 Val. Loss: 0.044 |    Val. PPL:   1.045
+Epoch: 59 | Time: 4m 17s
+	Train Loss: 0.530 | Train PPL:   1.698
+	 Val. Loss: 0.043 |    Val. PPL:   1.044
+Epoch: 60 | Time: 4m 14s
+	Train Loss: 0.509 | Train PPL:   1.663
+	 Val. Loss: 0.044 |    Val. PPL:   1.045
+Epoch: 61 | Time: 4m 14s
+	Train Loss: 0.495 | Train PPL:   1.640
+	 Val. Loss: 0.044 |    Val. PPL:   1.045
+Testing:
+	 Query:
+	SOS a man and woman fishing at the beach . EOS PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD
+	 Answer:
+	SOS ein mann und eine frau fischen auf den strand , um die vor dem großen , wobei sich etwas zu hat , bei dem seine arbeit unter den nacktem oberkörper unterschiedlicher größe betrachtet , vor , was als ob
+
+Epoch: 62 | Time: 4m 13s
+	Train Loss: 0.479 | Train PPL:   1.615
+	 Val. Loss: 0.044 |    Val. PPL:   1.045
+Epoch: 63 | Time: 4m 14s
+	Train Loss: 0.460 | Train PPL:   1.585
+	 Val. Loss: 0.045 |    Val. PPL:   1.046
