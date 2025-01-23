@@ -1,0 +1,135 @@
+Epoch: 01 | Time: 76m 51s
+	Train Loss: 39.223 | Train PPL: 108212401616218864.000
+	 Val. Loss: 7.886 |    Val. PPL: 2660.236
+Testing:
+	 Query:
+	PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD SOS can you evaluate this succeeding mathematical expression :  ( <num> 4 </num> + <num> 7 </num> ) EOS SOS it's my judgment that the solution could be :
+	 Answer:
+	 <num> 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+Epoch: 02 | Time: 80m 22s
+	Train Loss: 30.431 | Train PPL: 16440252434873.045
+	 Val. Loss: 6.999 |    Val. PPL: 1095.862
+Epoch: 03 | Time: 80m 16s
+	Train Loss: 28.334 | Train PPL: 2018913718625.519
+	 Val. Loss: 6.707 |    Val. PPL: 817.755
+Epoch: 04 | Time: 82m 17s
+	Train Loss: 27.505 | Train PPL: 881475316235.576
+	 Val. Loss: 6.606 |    Val. PPL: 739.388
+Epoch: 05 | Time: 82m 42s
+	Train Loss: 26.909 | Train PPL: 485723113273.095
+	 Val. Loss: 6.465 |    Val. PPL: 642.570
+Epoch: 06 | Time: 81m 22s
+	Train Loss: 26.674 | Train PPL: 383896846795.976
+	 Val. Loss: 6.507 |    Val. PPL: 670.068
+Epoch: 07 | Time: 82m 14s
+	Train Loss: 26.685 | Train PPL: 388274633454.293
+	 Val. Loss: 6.517 |    Val. PPL: 676.594
+Epoch: 08 | Time: 82m 26s
+	Train Loss: 26.598 | Train PPL: 355894758501.411
+	 Val. Loss: 6.435 |    Val. PPL: 623.243
+Epoch: 09 | Time: 81m 43s
+	Train Loss: 26.746 | Train PPL: 412578738697.279
+	 Val. Loss: 6.420 |    Val. PPL: 613.973
+Epoch: 10 | Time: 539m 39s
+	Train Loss: 26.853 | Train PPL: 459479721121.720
+	 Val. Loss: 6.483 |    Val. PPL: 653.764
+Epoch: 11 | Time: 69m 53s
+	Train Loss: 27.428 | Train PPL: 816031122272.001
+	 Val. Loss: 6.464 |    Val. PPL: 641.706
+Testing:
+	 Query:
+	PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD SOS can you solve this subsequent mathematical function :  ( <num> 7 </num> + <num> 5 </num> ) EOS SOS it strikes me
+	 Answer:
+	as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible as possible that the plausible
+
+Epoch: 12 | Time: 72m 56s
+	Train Loss: 27.626 | Train PPL: 995292852865.769
+	 Val. Loss: 6.752 |    Val. PPL: 855.425
+Epoch: 13 | Time: 79m 23s
+	Train Loss: 28.472 | Train PPL: 2318854711875.586
+	 Val. Loss: 6.546 |    Val. PPL: 696.498
+Epoch: 14 | Time: 81m 18s
+	Train Loss: 28.839 | Train PPL: 3347571039008.751
+	 Val. Loss: 6.831 |    Val. PPL: 926.460
+Epoch: 15 | Time: 82m 59s
+	Train Loss: 29.551 | Train PPL: 6817785502237.641
+	 Val. Loss: 6.963 |    Val. PPL: 1056.782
+Epoch: 16 | Time: 82m 48s
+	Train Loss: 29.662 | Train PPL: 7624034108094.428
+	 Val. Loss: 6.794 |    Val. PPL: 892.208
+Epoch: 17 | Time: 82m 19s
+	Train Loss: 29.700 | Train PPL: 7916863480728.961
+	 Val. Loss: 7.120 |    Val. PPL: 1236.137
+Epoch: 18 | Time: 79m 36s
+	Train Loss: 30.153 | Train PPL: 12450078825537.885
+	 Val. Loss: 6.902 |    Val. PPL: 994.114
+Epoch: 19 | Time: 351m 48s
+	Train Loss: 30.694 | Train PPL: 21397287749960.125
+	 Val. Loss: 6.893 |    Val. PPL: 985.540
+Epoch: 20 | Time: 552m 55s
+	Train Loss: 31.069 | Train PPL: 31118924533144.133
+	 Val. Loss: 7.289 |    Val. PPL: 1463.774
+Epoch: 21 | Time: 147m 46s
+	Train Loss: 31.296 | Train PPL: 39037020891882.453
+	 Val. Loss: 7.817 |    Val. PPL: 2483.037
+Testing:
+	 Query:
+	PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD SOS hey ,  can you calculate the subsequent mathematical expression :  ( <num> 2 </num> + <num> 2 </num> ) EOS SOS it's my belief
+	 Answer:
+	that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is
+
+Epoch: 01 | Time: 77m 35s
+	Train Loss: 30.172 | Train PPL: 12696148251230.764
+	 Val. Loss: 34.744 |    Val. PPL: 1228270249703555.000
+Epoch: 02 | Time: 79m 9s
+	Train Loss: 30.226 | Train PPL: 13392793701646.754
+	 Val. Loss: 34.009 |    Val. PPL: 588957441234806.625
+Epoch: 03 | Time: 81m 53s
+	Train Loss: 30.826 | Train PPL: 24399221451482.246
+	 Val. Loss: 63.522 |    Val. PPL: 3864388997450516340701921280.000
+Epoch: 04 | Time: 80m 0s
+	Train Loss: 31.221 | Train PPL: 36250466100053.133
+	 Val. Loss: 60.211 |    Val. PPL: 141039426508387122084315136.000
+Epoch: 05 | Time: 81m 6s
+	Train Loss: 31.662 | Train PPL: 56316545497473.172
+	 Val. Loss: 50.024 |    Val. PPL: 5313136395573377630208.000
+Epoch: 06 | Time: 81m 31s
+	Train Loss: 32.157 | Train PPL: 92342160891502.359
+	 Val. Loss: 40.709 |    Val. PPL: 478318182623995584.000
+Epoch: 07 | Time: 80m 41s
+	Train Loss: 31.743 | Train PPL: 61037579671273.758
+	 Val. Loss: 38.085 |    Val. PPL: 34679764750380032.000
+Epoch: 08 | Time: 495m 17s
+	Train Loss: 32.866 | Train PPL: 187716918151975.438
+	 Val. Loss: 32.540 |    Val. PPL: 135448437129564.500
+Epoch: 09 | Time: 288m 8s
+	Train Loss: 33.262 | Train PPL: 278836316788401.031
+	 Val. Loss: 33.197 |    Val. PPL: 261444742797584.781
+Epoch: 10 | Time: 82m 4s
+	Train Loss: 33.506 | Train PPL: 355914125511254.125
+	 Val. Loss: 72.480 |    Val. PPL: 30036779881560540942067033964544.000
+Epoch: 11 | Time: 83m 16s
+	Train Loss: 34.075 | Train PPL: 629040072336516.250
+	 Val. Loss: 44.810 |    Val. PPL: 28878673096682766336.000
+Epoch: 12 | Time: 83m 50s
+	Train Loss: 33.662 | Train PPL: 415971062824650.188
+	 Val. Loss: 49.018 |    Val. PPL: 1941550640344109678592.000
+Epoch: 13 | Time: 87m 2s
+	Train Loss: 33.648 | Train PPL: 410167397080081.188
+	 Val. Loss: 52.359 |    Val. PPL: 54833353538467098787840.000
+Epoch: 14 | Time: 86m 55s
+	Train Loss: 34.443 | Train PPL: 908627280620166.750
+	 Val. Loss: 52.082 |    Val. PPL: 41580518605405271621632.000
+Epoch: 15 | Time: 87m 51s
+	Train Loss: 34.905 | Train PPL: 1441978385866249.750
+	 Val. Loss: 51.852 |    Val. PPL: 33052697132174193721344.000
+Epoch: 16 | Time: 80m 25s
+	Train Loss: 34.664 | Train PPL: 1132950338729782.500
+	 Val. Loss: 55.987 |    Val. PPL: 2064457253091850498080768.000
+Epoch: 17 | Time: 86m 1s
+	Train Loss: 35.464 | Train PPL: 2522079256162210.000
+	 Val. Loss: 72.312 |    Val. PPL: 25393409013094371993326320615424.000
+Epoch: 18 | Time: 83m 6s
+	Train Loss: 36.003 | Train PPL: 4325547031614765.000
+	 Val. Loss: 46.805 |    Val. PPL: 212486565353291874304.000

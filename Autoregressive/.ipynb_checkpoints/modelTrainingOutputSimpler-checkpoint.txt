@@ -1,0 +1,12 @@
+Testing:
+	 Query:
+	PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD SOS can you solve this subsequent mathematical function :  ( <num> 7 </num> + <num> 5 </num> ) EOS SOS it strikes me as possible that the response is :  <num> 1 2
+	 Answer:
+	</num> EOS
+
+Testing:
+	 Query:
+	PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD SOS hey ,  would you calculate the subsequent formula :  <num> 3 </num> + <num> 2 </num> EOS SOS
+	 Answer:
+	<num> 5 </num> EOS
+
